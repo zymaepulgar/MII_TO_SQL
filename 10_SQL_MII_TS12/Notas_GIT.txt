@@ -10,10 +10,12 @@ mkdir GIT_HUB
 nkdir 10_SQL_MII_TS12
 cd GIT_HUB
 git init
-git add README.md
+
 -----------
 git status
 -----------
+git add.
+git commit -m "Actualizar descripción del proyecto"
 -----------
 git branch -M main
 git push -u origin main
