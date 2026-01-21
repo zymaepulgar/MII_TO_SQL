@@ -1,0 +1,19 @@
+Notas GIT
+
+segundo repositorio
+
+1.- cambiar a este repositorio
+git remote set-url origin https://github.com/epulgarzyma/MII_TO_SQL.git
+git remote -v
+-- solo primera vez
+mkdir GIT_HUB
+nkdir 10_SQL_MII_TS12
+cd GIT_HUB
+git init
+git add README.md
+-----------
+git status
+-----------
+-----------
+git branch -M main
+git push -u origin main
